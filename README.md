@@ -3,7 +3,7 @@ Comparing the performance of heapsort and quicksort for various input sizes from
 Each time, the input is randomized.
 Input Sizes are increased by 1100,000 per every one loop:
 
-  From 100k to 10M
+  From 100K to 10M
 1.  100000
 2.  1200000
 3.  2300000
