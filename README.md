@@ -1,5 +1,5 @@
 # Time-comparison-HeapSort-and-QuickSort
-Comparing the performance of heapsort and quicksort for various input sizes from 100K to 10M
+Comparing the performance of heapsort and quicksort for various input sizes from 100K to 10M.
 Each time, the input is randomized.
 Input Sizes are increased by 1100,000 per every one loop:
 
