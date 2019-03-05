@@ -1,9 +1,6 @@
 """
-SN:     17112496
 Name:   To Eun Kim
 Module: COMP0005 Algorithms (18/19)
-Coursework 2 - Question 1
-11th MAR 2019
 """
 import time
 from random import randint
