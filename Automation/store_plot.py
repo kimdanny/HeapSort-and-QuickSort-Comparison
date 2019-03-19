@@ -42,24 +42,3 @@ with open("quickCountStorage.txt", "a") as qcountFile:
     ax.plot(inputSize, quickCountList, label='Quicksort')
     ax.legend()
     plot.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
