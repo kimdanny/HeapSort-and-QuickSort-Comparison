@@ -1,7 +1,3 @@
-"""
-Name:   To Eun Kim
-Module: COMP0005 Algorithms (18/19)
-"""
 import time
 from random import randint
 import sys
