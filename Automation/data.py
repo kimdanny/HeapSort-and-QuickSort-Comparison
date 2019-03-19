@@ -1,10 +1,4 @@
 """
-SN:     17112496
-Name:   To Eun Kim
-Module: COMP0005 Algorithms (18/19)
-Coursework 2 - Question 1
-11th MAR 2019
-
 <Reference>
 1. Heap Sorting Algorithm
     URL: https://www.geeksforgeeks.org/heap-sort/
@@ -134,13 +128,3 @@ def estimateData():
         quickCountList.append(quickCount)
 
 # ---------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
